@@ -93,7 +93,7 @@
     "utcEndTime": "2026-02-15T08:00:00.000Z",
     "start": "2026-02-14T00:00:00.000Z",
     "end": "2026-02-15T00:00:00.000Z",
-    "ttl": 1771210057
+    "ttl": 1771296230
   },
   "longest_daily_streak": {
     "duration": 17,
@@ -108,7 +108,7 @@
     "utcEndTime": "2026-02-15T08:00:00.000Z",
     "start": "2026-02-03T00:00:00.000Z",
     "end": "2026-02-15T00:00:00.000Z",
-    "ttl": 1771210057
+    "ttl": 1771296230
   },
   "longest_weekly_streak": {
     "duration": 11,
@@ -200,7 +200,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 44,
+    "daysLeftInCurrentChallenge": 43,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
