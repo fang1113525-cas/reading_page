@@ -87,7 +87,9 @@
     "2026-02-14",
     "2026-02-15",
     "2026-02-17",
-    "2026-02-19"
+    "2026-02-19",
+    "2026-02-22",
+    "2026-02-23"
   ],
   "current_daily_streak": {
     "duration": 0
@@ -192,7 +194,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 61,
+    "daysLeftInCurrentChallenge": 60,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
